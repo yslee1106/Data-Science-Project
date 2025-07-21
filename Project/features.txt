@@ -1,0 +1,70 @@
+Property Class:
+Neighborhood Code:
+Land Square Feet:
+    - transformed to Log Land Square Feet
+
+
+Town Code:
+Apartments:
+Wall Material:
+Roof Material:
+Basement:
+Basement Finish:
+Central Heating:
+Other Heating:
+Central Air:
+Fireplaces:
+Attic Type:
+Attic Finish:
+Design Plan:
+Cathedral Ceiling:
+Construction Quality:
+Site Desirability:
+Garage 1 Size:
+Garage 1 Material:
+Garage 1 Attachment:
+Garage 1 Area:
+Garage 2 Size:
+Garage 2 Material:
+Garage 2 Attachment:
+Garage 2 Area:
+Porch:
+Building Square Feet:
+    - transformed to 'Log Building Square Feet'
+
+
+Repair Condition:
+Multi Code:
+Number of Commercial Units:
+Estimate (Land):
+Estimate (Building):
+Deed No.:
+Longitude:
+Latitude:
+Census Tract:
+Multi Property Indicator:
+Modeling Group:
+Age:
+
+
+
+Use:
+O'Hare Noise:
+Floodplain:
+Road Proximity:
+Sale Year:
+Sale Quarter:
+Sale Half-Year:
+Sale Quarter of Year:
+Sale Month of Year:
+Sale Half of Year:
+Most Recent Sale:
+Age Decade:
+
+
+
+Pure Market Filter:
+Garage Indicator:
+Neighborhood Code (mapping):
+Town and Neighborhood:
+Description:
