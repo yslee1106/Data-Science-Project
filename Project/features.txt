@@ -1,70 +1,137 @@
 Property Class:
-Neighborhood Code:
-Land Square Feet:
-    - transformed to Log Land Square Feet
+    - categorical
+    - rm
 
+Neighborhood Code:
+    - categorical
+
+Land Square Feet:
+    - numerical
+    - transformed to Log Land Square Feet (not helpful)
 
 Town Code:
+    - categorical
+    - rm
+
 Apartments:
+    - categorical
+    
+
 Wall Material:
+    - categorical
 Roof Material:
+    - categorical
 Basement:
+    - categorical
 Basement Finish:
+    - categorical
 Central Heating:
+    - categorical
 Other Heating:
+    - categorical
 Central Air:
+    - categorical
 Fireplaces:
+    - numerical
 Attic Type:
+    - categorical
 Attic Finish:
+    - categorical
 Design Plan:
+    - categorical
 Cathedral Ceiling:
+    - categorical
 Construction Quality:
+    - categorical
 Site Desirability:
+    - categorical
 Garage 1 Size:
+    - categorical
 Garage 1 Material:
+    - categorical
 Garage 1 Attachment:
+    - categorical
 Garage 1 Area:
+    - numerical
 Garage 2 Size:
+    - categorical
 Garage 2 Material:
+    - categorical
 Garage 2 Attachment:
+    - categorical
 Garage 2 Area:
+    - numerical
+    
 Porch:
+    - categorical
 Building Square Feet:
-    - transformed to 'Log Building Square Feet'
-
-
+    - numerical
+    - transformed to Log Building Square Feet (not helpful)
 Repair Condition:
+    - categorical
 Multi Code:
+    - categorical
 Number of Commercial Units:
+    - numerical
 Estimate (Land):
+    - numerical
+    - transformed to Log Estimate (Land)
 Estimate (Building):
+    - numerical
+    - transformed to Log Estimate (Building)
 Deed No.:
 Longitude:
+    - numerical
 Latitude:
+    - numerical
 Census Tract:
 Multi Property Indicator:
+    - other
 Modeling Group:
 Age:
-
-
-
+    - numerical
 Use:
+    - categorical
 O'Hare Noise:
+    - categorical
 Floodplain:
+    - categorical
 Road Proximity:
+    - categorical
 Sale Year:
+    - numerical
 Sale Quarter:
+    - numerical
 Sale Half-Year:
+    - categorical
 Sale Quarter of Year:
+    - categorical
 Sale Month of Year:
+    - categorical
 Sale Half of Year:
+    - categorical
 Most Recent Sale:
 Age Decade:
-
-
-
+    - numerical
 Pure Market Filter:
+    - categorical
 Garage Indicator:
 Neighborhood Code (mapping):
+    - other
 Town and Neighborhood:
+    - categorical
 Description:
+Story:
+    - categorical
+Total_rooms:
+    - numerical
+Bedrooms:
+    - numerical
+Bathrooms:
+    - numerical
+in_expensive_neighborhood:
+    - categorical
+Lot Size:
+    - numerical
+
+
