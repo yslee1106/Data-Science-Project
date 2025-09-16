@@ -1,0 +1,1 @@
+Analyzed housing data from Cook County, Illinois to explore the relationship between housing features and prices. Conducted exploratory data analysis (EDA), performed data cleaning and feature engineering, and built a linear regression model achieving strong predictive performance. Evaluated model errors and proposed strategies for further improvement.
